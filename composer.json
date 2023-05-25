@@ -18,14 +18,13 @@
         }
     ],
     "require": {
-        "laravel-liberu/core": "^8.0",
-        "laravel-liberu/dynamic-methods": "^2.0",
-        "laravel-liberu/enums": "^2.0",
-        "laravel-liberu/forms": "^4.0",
-        "laravel-liberu/helpers": "^2.0",
-        "laravel-liberu/migrator": "^2.0",
-        "laravel-liberu/roles": "^5.0",
-        "laravel-liberu/tables": "^4.0"
+        "laravel-liberu/dynamic-methods": "^2.1.3",
+        "laravel-liberu/enums": "^2.2.3",
+        "laravel-liberu/forms": "^4.5.1",
+        "laravel-liberu/helpers": "^2.9.2",
+        "laravel-liberu/migrator": "^2.1.3",
+        "laravel-liberu/roles": "^5.1",
+        "laravel-liberu/tables": "^4.13.5"
     },
     "autoload": {
         "psr-4": {
