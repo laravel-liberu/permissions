@@ -1,15 +1,15 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use LaravelEnso\Permissions\Http\Controllers\Create;
-use LaravelEnso\Permissions\Http\Controllers\Destroy;
-use LaravelEnso\Permissions\Http\Controllers\Edit;
-use LaravelEnso\Permissions\Http\Controllers\ExportExcel;
-use LaravelEnso\Permissions\Http\Controllers\InitTable;
-use LaravelEnso\Permissions\Http\Controllers\Options;
-use LaravelEnso\Permissions\Http\Controllers\Store;
-use LaravelEnso\Permissions\Http\Controllers\TableData;
-use LaravelEnso\Permissions\Http\Controllers\Update;
+use LaravelLiberu\Permissions\Http\Controllers\Create;
+use LaravelLiberu\Permissions\Http\Controllers\Destroy;
+use LaravelLiberu\Permissions\Http\Controllers\Edit;
+use LaravelLiberu\Permissions\Http\Controllers\ExportExcel;
+use LaravelLiberu\Permissions\Http\Controllers\InitTable;
+use LaravelLiberu\Permissions\Http\Controllers\Options;
+use LaravelLiberu\Permissions\Http\Controllers\Store;
+use LaravelLiberu\Permissions\Http\Controllers\TableData;
+use LaravelLiberu\Permissions\Http\Controllers\Update;
 
 Route::middleware(['api', 'auth', 'core'])
     ->prefix('api/system/permissions')->as('system.permissions.')

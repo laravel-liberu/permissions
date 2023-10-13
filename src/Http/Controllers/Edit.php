@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Permissions\Http\Controllers;
+namespace LaravelLiberu\Permissions\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Permissions\Forms\Builders\Permission;
-use LaravelEnso\Permissions\Models\Permission as Model;
+use LaravelLiberu\Permissions\Forms\Builders\Permission;
+use LaravelLiberu\Permissions\Models\Permission as Model;
 
 class Edit extends Controller
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Permissions\Database\Factories;
+namespace LaravelLiberu\Permissions\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use LaravelEnso\Permissions\Models\Permission;
+use LaravelLiberu\Permissions\Models\Permission;
 
 class PermissionFactory extends Factory
 {

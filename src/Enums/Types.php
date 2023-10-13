@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\Permissions\Enums;
+namespace LaravelLiberu\Permissions\Enums;
 
-use LaravelEnso\Enums\Services\Enum;
+use LaravelLiberu\Enums\Services\Enum;
 
 class Types extends Enum
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Permissions\Http\Requests;
+namespace LaravelLiberu\Permissions\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Validation\Rule;
-use LaravelEnso\Helpers\Traits\FiltersRequest;
+use LaravelLiberu\Helpers\Traits\FiltersRequest;
 
 class ValidatePermission extends FormRequest
 {

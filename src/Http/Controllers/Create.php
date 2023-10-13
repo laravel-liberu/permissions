@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Permissions\Http\Controllers;
+namespace LaravelLiberu\Permissions\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Permissions\Forms\Builders\Permission;
+use LaravelLiberu\Permissions\Forms\Builders\Permission;
 
 class Create extends Controller
 {

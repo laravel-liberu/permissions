@@ -1,17 +1,17 @@
 <?php
 
-namespace LaravelEnso\Permissions\Models;
+namespace LaravelLiberu\Permissions\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Route;
-use LaravelEnso\DynamicMethods\Traits\Abilities;
-use LaravelEnso\Menus\Models\Menu;
-use LaravelEnso\Permissions\Enums\Types;
-use LaravelEnso\Permissions\Enums\Verbs;
-use LaravelEnso\Permissions\Exceptions\Permission as Exception;
-use LaravelEnso\Roles\Traits\HasRoles;
-use LaravelEnso\Tables\Traits\TableCache;
+use LaravelLiberu\DynamicMethods\Traits\Abilities;
+use LaravelLiberu\Menus\Models\Menu;
+use LaravelLiberu\Permissions\Enums\Types;
+use LaravelLiberu\Permissions\Enums\Verbs;
+use LaravelLiberu\Permissions\Exceptions\Permission as Exception;
+use LaravelLiberu\Roles\Traits\HasRoles;
+use LaravelLiberu\Tables\Traits\TableCache;
 
 class Permission extends Model
 {

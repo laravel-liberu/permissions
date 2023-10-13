@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Permissions\Forms\Builders;
+namespace LaravelLiberu\Permissions\Forms\Builders;
 
-use LaravelEnso\Forms\Services\Form;
-use LaravelEnso\Permissions\Models\Permission as Model;
-use LaravelEnso\Roles\Models\Role;
+use LaravelLiberu\Forms\Services\Form;
+use LaravelLiberu\Permissions\Models\Permission as Model;
+use LaravelLiberu\Roles\Models\Role;
 
 class Permission
 {

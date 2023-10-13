@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Permissions;
+namespace LaravelLiberu\Permissions;
 
 use Illuminate\Support\ServiceProvider;
-use LaravelEnso\Permissions\Http\Middleware\VerifyRouteAccess;
+use LaravelLiberu\Permissions\Http\Middleware\VerifyRouteAccess;
 
 class AppServiceProvider extends ServiceProvider
 {

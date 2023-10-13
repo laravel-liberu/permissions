@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Permissions\State;
+namespace LaravelLiberu\Permissions\State;
 
 use Illuminate\Support\Facades\Auth;
-use LaravelEnso\Core\Contracts\ProvidesState;
+use LaravelLiberu\Core\Contracts\ProvidesState;
 
 class DefaultRoute implements ProvidesState
 {

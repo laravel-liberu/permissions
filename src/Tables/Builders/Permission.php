@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Permissions\Tables\Builders;
+namespace LaravelLiberu\Permissions\Tables\Builders;
 
 use Illuminate\Database\Eloquent\Builder;
-use LaravelEnso\Permissions\Models\Permission as Model;
-use LaravelEnso\Tables\Contracts\Table;
+use LaravelLiberu\Permissions\Models\Permission as Model;
+use LaravelLiberu\Tables\Contracts\Table;
 
 class Permission implements Table
 {

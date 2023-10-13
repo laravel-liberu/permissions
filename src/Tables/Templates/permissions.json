@@ -32,7 +32,7 @@
             "label": "Type",
             "name": "type",
             "data": "type",
-            "enum": "LaravelEnso\\Permissions\\Enums\\Types",
+            "enum": "LaravelLiberu\\Permissions\\Enums\\Types",
             "meta": [
                 "slot"
             ]

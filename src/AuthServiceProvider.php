@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Permissions;
+namespace LaravelLiberu\Permissions;
 
 use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;
 use Illuminate\Support\Facades\Gate;

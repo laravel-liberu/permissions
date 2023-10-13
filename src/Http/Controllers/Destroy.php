@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Permissions\Http\Controllers;
+namespace LaravelLiberu\Permissions\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Permissions\Models\Permission;
+use LaravelLiberu\Permissions\Models\Permission;
 
 class Destroy extends Controller
 {
