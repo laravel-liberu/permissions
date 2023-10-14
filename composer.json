@@ -1,6 +1,6 @@
 {
     "name": "laravel-liberu/permissions",
-    "description": "Permissions dependency for Laravel Enso",
+    "description": "Permissions dependency for Laravel Liberu",
     "keywords": [
         "laravel-liberu",
         "permission-manager",
